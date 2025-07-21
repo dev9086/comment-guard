@@ -1,0 +1,501 @@
+marduga
+mar
+madarchod
+madar chod
+maderchod
+maaderchod
+mad4rch0d
+m@darchod
+mc
+m c
+bhenchod
+bhen chod
+bhanchod
+bc
+b c
+bhan ch*d
+bh3nchod
+chutiya
+chutya
+ch0tiya
+ch*tiya
+ch**iya
+lodu
+loda
+lund
+l*da
+launda
+gaand
+gand
+gandu
+g@ndu
+randi
+r@ndi
+raand
+raandi
+randee
+bhadwa
+bhadva
+haramzada
+haram ka aulaad
+kutte ki aulaad
+kutta
+kaminey
+kamina
+behenchod
+behen chod
+chod
+chodu
+saala
+saale
+tatti
+tatyachod
+chinal
+randipan
+madharchod
+maachod
+maa ki chut
+behn ki chut
+maa ka bhosda
+behn ka bhosda
+jhant
+jhatu
+jhantichod
+jhantichod
+madarchod
+madar chod
+maderchod
+maaderchod
+mad@rchod
+m@darchod
+mad4rch0d
+mc
+m c
+bhenchod
+bhen chod
+bhanchod
+bc
+b c
+bhan ch*d
+bh3nchod
+chutiya
+chutya
+ch0tiya
+ch*tiya
+ch**iya
+lodu
+loda
+lund
+l*da
+launda
+gaand
+gand
+gandu
+g@ndu
+randi
+r@ndi
+raand
+raandi
+randee
+bhadwa
+bhadva
+kutte ki aulad
+kuttiya
+kutti
+kamina
+kaminey
+harami
+behenchod
+behnchod
+behn ch*d
+bhen ch*d
+behn ki chut
+bhen ki chut
+behn ki bosdi
+bhen ki bosdi
+bhen ka bhosda
+behn ka bhosda
+bhen ke lode
+behn ke lode
+maa ki chut
+maa ka bhosda
+madarch*d
+chodna
+chod diya
+chodu
+jhant
+jhatu
+jhantichod
+jhantichod
+maachod
+bosdi
+bhosdi
+bhosdee
+bh0sdi
+bh0sdee
+b0sdi
+madar f***r
+suar ki aulad
+haramzada
+haram ka aulad
+haraamkhor
+haramkhor
+harami
+bhenchod
+behnchod
+bhosdike
+madarchod
+mc
+bc
+chod
+choot
+lund
+loda
+randi
+kuttiya
+kutte
+harami
+gandu
+chutiya
+chutia
+chodu
+ma ki aankh
+maa ke
+behen ke
+suar
+ullu ka pattha
+jhant
+gaand
+pichwada
+naani yaad dila
+teri maa
+teri behen
+tere baap
+teri behen
+chamaar
+chappal se marunga
+tumhara baap
+chodu saale
+chod diya
+chod diya usko
+kamina
+ghatiya
+kanjar
+saala
+sali
+rascal
+pervert
+bitch
+bastard
+dumbass
+scumbag
+moron
+asshole
+fuck
+fucking
+shit
+crap
+screw you
+die loser
+fat pig
+bloody
+regex:\bgo\s+away\b
+regex:\bi(?:'ll| will)\s+hurt\b
+regex:\bkill\s+(yourself|urself|ur)\b
+regex:\bgo\s+die\b
+regex:\bi(?:'ll| will)\s+kill\b
+regex:\bdie\s+(dog|pig|alone|slowly|bitch)\b
+regex:\byou\s+(are|r)\s+(useless|worthless|garbage|trash)\b
+regex:\bi\s+hate\s+you\b
+regex:\byou\s+should\s+die\b
+regex:\byour\s+life\s+is\s+pointless\b
+regex:\byou\s+deserve\s+(pain|nothing|to\s+die)\b
+regex:\byou\s+are\s+a\s+(liar|cheater|loser|pervert|fool)\b
+regex:\bmother\s*fucker\b
+regex:\bfuck\s+you\b
+regex:\bshut\s+up\s+you\b
+regex:\bget\s+lost\b
+regex:\bdumb\s+(person|idiot|moron|ass)\b
+regex:\bchutiya\b
+regex:\bmadarchod\b
+regex:\bbhenchod\b
+regex:\bmc\b
+regex:\bbc\b
+regex:\bhahah(?:a|h){2,}\b
+regex:\b(teri|tere)\s+(maa|behen|baap)\b
+regex:\byou\s+are\s+(a|such\s+a)?\s*(tharki|chapri|sadakchap|liar|fool|joker|failure)\b
+regex:\byou\s+(look|act|talk)\s+like\s+(a\s+)?(fool|joker|dog|beggar|chapri)\b
+regex:\bi\s+hope\s+you\s+(fail|lose|cry|break\s+down)\b
+regex:\byour\s+face\s+is\s+(ugly|nonsense|chapri)\b
+regex:\bno\s+one\s+cares\s+about\s+you\b
+regex:\bnobody\s+wants\s+you\b
+regex:\bdeserve\s+to\s+be\s+alone\b
+regex:\byou\s+will\s+die\s+alone\b
+regex:\bkill\s+your\s+self\b
+regex:\byour\s+existence\s+is\s+a\s+joke\b
+regex:\bfuck\s+(your\s+life|this\s+channel|off)\b
+regex:\bi\s+would\s+spit\s+on\s+you\b
+regex:\bnanga\s+naach\b
+regex:\bmujhe\s+teri\s+shakal\s+se\s+nafrat\s+hai\b
+regex:\bsaale\s+bhikhari\b
+regex:\btera\s+ghar\s+kya\s+chal\s+raha\s+hai\b
+regex:\btu\s+to\s+ek\s+failure\b
+regex:\bja\s+ke\s+marr\s+ja\b
+regex:\bapne\s+baap\s+se\s+puch\b
+regex:\blol(?:o|l){2,}.*(ugly|dumb|stupid)\b
+regex:\bhah(?:a|h){3,}.*(noob|idiot|loser|sasta)\b
+regex:\bgo\s+(to\s+)?hell\b
+regex:\bgo\s+die\b
+regex:\bi(?:'ll| will)\s+(kill|destroy|ruin)\s+(you|ur)?\b
+regex:\bkill\s+(yourself|urself|ur|him|her)\b
+regex:\bi\s+hope\s+you\s+die\b
+regex:\bshut\s+up\b
+regex:\bget\s+lost\b
+regex:\bfuck\s+you\b
+regex:\bfuck\s+off\b
+regex:\bfuck\s+(your\s+life|this\s+channel)\b
+regex:\byou\s+(are|r)\s+(useless|worthless|trash|garbage|nonsense|dumb|stupid|cheap|liar|fat|ugly)\b
+regex:\byou\s+(deserve|should\s+be)\s+(punished|hurt|dead|killed|destroyed|cancelled)\b
+regex:\byour\s+face\s+is\s+(ugly|cheap|funny|a\s+joke)\b
+regex:\bi\s+hate\s+(this|you|your\s+face|everything)\b
+regex:\bi\s+would\s+spit\s+on\s+you\b
+regex:\byou\s+look\s+like\s+a\s+(joker|beggar|fool|pig|clown|donkey)\b
+regex:\bi\s+feel\s+sick\s+looking\s+at\s+you\b
+regex:\byour\s+parents\s+must\s+be\s+ashamed\b
+regex:\b(teri|tere)\s+(maa|behen|baap|family|ghar)\b
+regex:\b(maa|behen|baap)\s+(ke|ka|ki)\b
+regex:\bsuar\s*(ke|ka|ki)?\s+(bach[ae]|bacha|beti|beta)\b
+regex:\blaude\s*(ka|ke|ki)?\b
+regex:\brandi\s*(ka|ke|ki)?\b
+regex:\bmader\s*chod\b
+regex:\bbhen\s*chod\b
+regex:\bmujhe\s+teri\s+shakal\s+se\s+nafrat\s+hai\b
+regex:\bsaale\s+bhikhari\b
+regex:\btu\s+to\s+ek\s+failure\b
+regex:\bcharas\s+w
+regex:\bdelete\s+kar\s+de\s+apni\s+id\b
+regex:\btere\s+jaise\s+log\s+hi\s+faltu\s+hain\b
+regex:\bjaake\s+padhai\s+kar\b
+regex:\btere\s+se\s+better\s+toh\s+bots\s+hain\b
+regex:\bkisi\s+kaam\s+ka\s+nahi\s+hai\s+tu\b
+regex:\battention\s+seeker\b
+regex:\bclout\s+chaser\b
+regex:\bfake\s+profile\b
+regex:\btere\s+followers\s+bhi\s+fake\s+hain\b
+regex:\bzero\s+talent\b
+regex:\bcry\s+baby\b
+regex:\bro\s+le\s+ab\b
+regex:\bteri\s+shakal\s+dekh\s+ke\s+has(i|a)\s+aati\s+hai\b
+regex:\btere\s+baap\s+ka\s+app\s+nahi\s+hai\b
+regex:\bjaake\s+mummy\s+se\s+puch\b
+regex:\btere\s+jaise\s+log\s+hi\s+internet\s+ka\s+pollution\s+hain\b
+bhenchod
+behnchod
+bhosdike
+madarchod
+mc
+bc
+chod
+chodu
+choot
+chut
+lund
+loda
+lundka
+lundiya
+randi
+randika
+kuttiya
+kutti
+kutte
+kuttey
+harami
+gandu
+gand
+chutiya
+chutia
+nalayak
+bekar
+nikamma
+chakka
+nalla
+useless
+bewakoof
+chirkut
+pathetic
+idiotic
+third class
+low class
+sadakchap
+chapri
+despo
+cheap
+roadside
+badtameez
+nonsense
+two rupees
+feku
+jumlebaaz
+tharki
+rapist
+sexual predator
+child abuser
+stalker
+fraud
+liar
+hypocrite
+corrupt
+nonsense
+duffer
+budbak
+ghatiya
+nafrat
+hate
+loser
+pedophile
+bhikhari
+beggar
+sadela
+nakli
+bhenchod
+behnchod
+bhnchod
+bhosdike
+bhodsdk
+madarchod
+madar chod
+mc
+m c
+bc
+b c
+chod
+chodu
+chotiya
+chutiya
+chut
+choot
+lund
+loda
+lauda
+randi
+randwa
+kuttiya
+kutti
+kutte
+kuttey
+harami
+gandu
+gand
+jhant
+jhantu
+ma ki aankh
+maa ke
+behen ke
+behen ka
+maa ka
+suar
+suwar
+suar ki aulaad
+ullu ka pattha
+gaand
+pichwada
+gaandu
+kanjar
+kutta
+kaminey
+kamine
+kutta sala
+lauda le
+chootiye
+saala
+sali
+chamaar
+chamar
+charsi
+ganjedi
+tharki
+tharak
+rapist
+stalker
+pervert
+bastard
+witch
+bitch
+slut
+hoe
+whore
+moron
+idiot
+duffer
+joker
+fraud
+beggar
+cheap
+chapri
+sadakchap
+fake
+nalla
+nikamma
+nalayak
+pathetic
+dumb
+dumbass
+fat pig
+bloody fool
+nonsense
+retard
+low IQ
+low class
+third class
+garbage
+useless
+worthless
+waste
+trash
+failure
+bhikhari
+scumbag
+liar
+hypocrite
+loser
+abuse
+nafrat
+hate
+joker face
+lodu
+bakwas
+jhalla
+ullu
+bhangi
+tmkc
+
+Chutiye
+Lodu
+Gandu
+Bhosdike
+Madarchod
+Bhen ke lode
+Saala
+Randi ka baccha
+Kutta
+Kamina
+Chakke
+Nalayak
+Bewakoof
+Gadha
+Chappri
+Tharki
+Fraud
+Katwa
+Haramkhor
+Bhadwa
+Jhaant ka baal
+Motu
+Kala
+Sookha
+Langda
+Andha
+Chirkut
+Dabba
+Cheap
+Ghatiya
