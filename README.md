@@ -60,7 +60,7 @@ comment-guard/
 
 ## 🌐 Live Demo
 Access the stable version on Hugging Face:  
-[![Hugging Face Demo](https://img.shields.io/badge/🔗_Try_Live_Demo-FFD21F?style=for-the-badge)](https://huggingface.co/spaces/dev9086/comment-guard)
+[![Hugging Face Demo](https://img.shields.io/badge/🔗_Try_Live_Demo-FFD21F?style=for-the-badge)](https://huggingface.co/spaces/Dev9893/comment-guard)
 
 ## 🤝 Contributing
 Found an issue? Please:
