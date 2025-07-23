@@ -31,7 +31,7 @@ print(predict_toxicity("Your mother is trash!"))
 ```diff
 + Core ML pipeline fully functional
 ! Deployment workflow being optimized
-- Web interface not production-ready
+
 ```
 
 ## ⚙️ Installation
