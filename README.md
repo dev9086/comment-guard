@@ -7,7 +7,7 @@ pinned: false
 ---
 # 🛡️ Comment Guard - Toxic Comment Classifier
 
-[![Open in Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live_Demo-blue)](https://huggingface.co/spaces/dev9086/comment-guard)
+[![Open in Hugging Face](https://huggingface.co/spaces/Dev9893/comment-guard)
 ![Project Status](https://img.shields.io/badge/status-active_development-yellow)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
