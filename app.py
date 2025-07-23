@@ -11,7 +11,7 @@ from fuzzywuzzy import fuzz
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-# NLTK Setup with custom download path
+# NLTK Setup 
 nltk_data_path = '/usr/local/nltk_data'
 os.makedirs(nltk_data_path, exist_ok=True)
 nltk.data.path.append(nltk_data_path) 
@@ -83,7 +83,7 @@ def clean_comment(text):
     cleaned_words = [stemmer.stem(x) for x in words if x not in english_stopwords]
     return " ".join(cleaned_words)
 
-# Enhanced moderation functions with fuzzy matching
+# fuzzy matching
 def rule_based_filter(text):
     normalized = normalize_text(text)
     compressed = normalized.replace(" ", "")
@@ -144,7 +144,7 @@ def analyze_comment(text):
     if ml_result["spam"] or ml_result["toxic"]:
         return {"decision": "FLAG", "reason": "ML model detection"}
 
-    # 3. Sentiment analysis (tiered)
+    # 3. Sentiment analysis 
     scores = sentiment_analyzer.polarity_scores(text)
     compound = scores['compound']
     if compound <= -0.4:
@@ -155,8 +155,6 @@ def analyze_comment(text):
     # 4. If clean
     return {"decision": "APPROVE", "reason": "Clean comment"}
 
-# Streamlit UI
-# ... (previous imports and setup remain the same) ...
 
 # Streamlit UI
 st.title("Comment Guard")
@@ -169,7 +167,6 @@ if st.button("ANALYZE"):
     else:
         result = analyze_comment(comment)
         
-        # Display decision and reason prominently
         st.subheader("Analysis Result:")
         
         if result['decision'] == "DELETE":
@@ -180,7 +177,7 @@ if st.button("ANALYZE"):
             st.success(f"Decision: {result['decision']} ✅")
         
         
-        # Details expander remains as before
+        # Details 
         with st.expander("Technical Details"):
             st.write("Cleaned text:", clean_comment(comment))
             ml_res = ml_predict(comment)
