@@ -46,27 +46,13 @@ python src/predict.py --text "Sample comment to classify"
 ```
 
 ## 📂 Project Structure
-```
-comment-guard/
-├── data/               # Training datasets
-├── models/             # Serialized models (SVM + TF-IDF)
-├── src/
-│   ├── preprocess.py   # Custom text cleaning
-│   ├── train.py        # Model training script
-│   └── predict.py      # Inference module
-├── tests/              # Validation scripts
-└── research/           # Experimental notebooks
-```
+
 
 ## 🌐 Live Demo
 Access the stable version on Hugging Face:  
 [![Hugging Face Demo](https://img.shields.io/badge/🔗_Try_Live_Demo-FFD21F?style=for-the-badge)](https://huggingface.co/spaces/Dev9893/comment-guard)
 
-## 🤝 Contributing
-Found an issue? Please:
-1. Check [known limitations](KNOWN_ISSUES.md)
-2. Open an issue with sample problematic text
-3. Follow our [contribution guidelines](CONTRIBUTING.md)
+
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details
